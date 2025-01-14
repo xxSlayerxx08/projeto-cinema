@@ -78,4 +78,8 @@ function ValidaSessao(){
     }
 }
 
+# Usuario: teste
+# Senha: 1234
+# Nivel: 1
+
 ?>
